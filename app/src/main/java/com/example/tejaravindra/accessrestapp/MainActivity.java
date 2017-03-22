@@ -57,6 +57,7 @@ public class MainActivity extends AppCompatActivity {
             context=getApplicationContext();
 
             System.out.println("tsesting commit");
+            System.out.println("adding code");
 //            URL url = new URL(JSON_URL_LIST);
 //            TestClass1 testClass = new TestClass1();
 //            testClass.execute(url);
