@@ -55,6 +55,8 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         try {
             context=getApplicationContext();
+
+            System.out.println("tsesting commit");
 //            URL url = new URL(JSON_URL_LIST);
 //            TestClass1 testClass = new TestClass1();
 //            testClass.execute(url);
